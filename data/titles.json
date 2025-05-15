@@ -1,0 +1,26 @@
+{
+  "CL": {
+    "1955-56": {
+      "champions": "Real Madrid",
+      "runner_up": "Stade de Reims",
+      "semi_finalists": ["AC Milan", "Hibernian"]
+    },
+    "1956-57": {
+      "champions": "Real Madrid",
+      "runner_up": "Fiorentina",
+      "semi_finalists": ["Manchester United", "Red Star Belgrade"]
+    },
+    "1957-58": {
+      "champions": "Real Madrid",
+      "runner_up": "AC Milan",
+      "semi_finalists": ["Vasas Budapest", "Manchester United"]
+    }
+  },
+  "FC": {
+    "1957-58": {
+      "champions": "FC Barcelona",
+      "runner_up": "London XI",
+      "semi_finalists": ["Lausanne Sports", "Birmingham City"]
+    }
+  }
+}
