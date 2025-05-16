@@ -18,7 +18,8 @@
       "1979/80",
       "1980/81",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -634,6 +635,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "APOEL Nicosia",
+        "country": "Cyprus",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "APOEL Nicosia",
+            "away": "Servette FC Genève",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Servette FC Genève",
+            "away": "APOEL Nicosia",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "AE Larissa",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "AE Larissa",
+            "away": "Servette FC Genève",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Servette FC Genève",
+            "away": "AE Larissa",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -667,7 +714,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -1324,9 +1372,25 @@
             "home": "Real Madrid",
             "away": "Anderlecht",
             "result": "4-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Anderlecht",
+            "away": "Real Madrid",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Real Madrid",
+            "away": "Anderlecht",
+            "result": "6-1"
           }
         ],
-        "headtohead": "1-2"
+        "headtohead": "2-3"
       },
       {
         "opponent": "Glasgow Rangers",
@@ -1488,9 +1552,25 @@
             "home": "Real Madrid",
             "away": "Internazionale",
             "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Internazionale",
+            "away": "Real Madrid",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Real Madrid",
+            "away": "Internazionale",
+            "result": "3-0"
           }
         ],
-        "headtohead": "3-4"
+        "headtohead": "4-5"
       },
       {
         "opponent": "B1909 Odense",
@@ -1796,9 +1876,25 @@
             "home": "Wacker Innsbruck",
             "away": "Real Madrid",
             "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Madrid",
+            "away": "Wacker Innsbruck",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Wacker Innsbruck",
+            "away": "Real Madrid",
+            "result": "2-0"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "2-2"
       },
       {
         "opponent": "Cardiff City",
@@ -2543,6 +2639,75 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "NK Rijeka",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "NK Rijeka",
+            "away": "Real Madrid",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Real Madrid",
+            "away": "NK Rijeka",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Tottenham Hotspur",
+            "away": "Real Madrid",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Real Madrid",
+            "away": "Tottenham Hotspur",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "F",
+            "home": "Videoton Fehérvár",
+            "away": "Real Madrid",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "F",
+            "home": "Real Madrid",
+            "away": "Videoton Fehérvár",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -2572,7 +2737,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -3619,6 +3785,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "AJ Auxerre",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sporting CP Lisbon",
+            "away": "AJ Auxerre",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AJ Auxerre",
+            "away": "Sporting CP Lisbon",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Dinamo Minsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Sporting CP Lisbon",
+            "away": "Dinamo Minsk",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Dinamo Minsk",
+            "away": "Sporting CP Lisbon",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -3636,7 +3848,8 @@
       "1974/75",
       "1976/77",
       "1978/79",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -4161,6 +4374,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Rabat Ajax",
+        "country": "Malta",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Rabat Ajax",
+            "away": "Partizan Belgrade",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Partizan Belgrade",
+            "away": "Rabat Ajax",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Queens Park Rangers",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Queens Park Rangers",
+            "away": "Partizan Belgrade",
+            "result": "6-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Partizan Belgrade",
+            "away": "Queens Park Rangers",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Videoton Fehérvár",
+            "away": "Partizan Belgrade",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Partizan Belgrade",
+            "away": "Videoton Fehérvár",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -4190,7 +4472,8 @@
       "1979/80",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -4393,9 +4676,25 @@
             "home": "Rapid Wien",
             "away": "Besiktas",
             "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Rapid Wien",
+            "away": "Besiktas",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Besiktas",
+            "away": "Rapid Wien",
+            "result": "1-1"
           }
         ],
-        "headtohead": "3-1"
+        "headtohead": "4-1"
       },
       {
         "opponent": "Wismut Karl-Marx-Stadt",
@@ -5194,6 +5493,90 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Celtic",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Rapid Wien",
+            "away": "Celtic",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Celtic",
+            "away": "Rapid Wien",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Dynamo Dresden",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Dynamo Dresden",
+            "away": "Rapid Wien",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Rapid Wien",
+            "away": "Dynamo Dresden",
+            "result": "5-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dinamo Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Rapid Wien",
+            "away": "Dinamo Moscow",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Dinamo Moscow",
+            "away": "Rapid Wien",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Everton",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "F",
+            "home": "Everton",
+            "away": "Rapid Wien",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -5214,7 +5597,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -6093,6 +6477,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "FC Vorwärts Frankfurt",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Vorwärts Frankfurt",
+            "away": "PSV Eindhoven",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "PSV Eindhoven",
+            "away": "FC Vorwärts Frankfurt",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "PSV Eindhoven",
+            "away": "Manchester United",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Manchester United",
+            "away": "PSV Eindhoven",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -9115,7 +9545,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -9238,9 +9669,25 @@
             "home": "Real Madrid",
             "away": "Anderlecht",
             "result": "4-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Anderlecht",
+            "away": "Real Madrid",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Real Madrid",
+            "away": "Anderlecht",
+            "result": "6-1"
           }
         ],
-        "headtohead": "2-1"
+        "headtohead": "3-2"
       },
       {
         "opponent": "CSKA Sofia",
@@ -10591,6 +11038,52 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Werder Bremen",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Anderlecht",
+            "away": "Werder Bremen",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Werder Bremen",
+            "away": "Anderlecht",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Fiorentina",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Fiorentina",
+            "away": "Anderlecht",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Anderlecht",
+            "away": "Fiorentina",
+            "result": "6-2"
+          }
+        ],
+        "headtohead": "1-0"
       }
     ]
   },
@@ -10604,7 +11097,8 @@
       "1961/62",
       "1965/66",
       "1979/80",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -10898,6 +11392,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Widzew Lódz",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Widzew Lódz",
+            "away": "AGF Aarhus",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AGF Aarhus",
+            "away": "Widzew Lódz",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -11511,7 +12028,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -12457,6 +12975,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Wrexham",
+        "country": "Wales",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Wrexham",
+            "away": "FC Porto",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Porto",
+            "away": "Wrexham",
+            "result": "4-3"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -12476,7 +13017,8 @@
       "1977/78",
       "1978/79",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -12737,9 +13279,25 @@
             "home": "Athletic Bilbao",
             "away": "Girondins Bordeaux",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Girondins Bordeaux",
+            "away": "Athletic Bilbao",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Athletic Bilbao",
+            "away": "Girondins Bordeaux",
+            "result": "0-0"
           }
         ],
-        "headtohead": "2-0"
+        "headtohead": "2-1"
       },
       {
         "opponent": "Liverpool",
@@ -13249,7 +13807,8 @@
       "1977/78",
       "1980/81",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -14091,6 +14650,98 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "ETO Györ",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Manchester United",
+            "away": "ETO Györ",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "ETO Györ",
+            "away": "Manchester United",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "PSV Eindhoven",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "PSV Eindhoven",
+            "away": "Manchester United",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Manchester United",
+            "away": "PSV Eindhoven",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Dundee United",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Manchester United",
+            "away": "Dundee United",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Dundee United",
+            "away": "Manchester United",
+            "result": "2-3"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Manchester United",
+            "away": "Videoton Fehérvár",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Videoton Fehérvár",
+            "away": "Manchester United",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -14671,7 +15322,8 @@
       "1979/80",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -15390,6 +16042,52 @@
           }
         ],
         "headtohead": "1-0"
+      },
+      {
+        "opponent": "Omonia Nicosia",
+        "country": "Cyprus",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Dinamo Bucuresti",
+            "away": "Omonia Nicosia",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Omonia Nicosia",
+            "away": "Dinamo Bucuresti",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Girondins Bordeaux",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Girondins Bordeaux",
+            "away": "Dinamo Bucuresti",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Dinamo Bucuresti",
+            "away": "Girondins Bordeaux",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -16518,7 +17216,8 @@
       "1979/80",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -17009,9 +17708,25 @@
             "home": "Glasgow Rangers",
             "away": "Internazionale",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Internazionale",
+            "away": "Glasgow Rangers",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Glasgow Rangers",
+            "away": "Internazionale",
+            "result": "3-1"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "2-2"
       },
       {
         "opponent": "Glentoran",
@@ -17556,9 +18271,25 @@
             "home": "Bohemians Dublin",
             "away": "Glasgow Rangers",
             "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Bohemians Dublin",
+            "away": "Glasgow Rangers",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Glasgow Rangers",
+            "away": "Bohemians Dublin",
+            "result": "2-0"
           }
         ],
-        "headtohead": "1-0"
+        "headtohead": "2-1"
       },
       {
         "opponent": "FC Zürich",
@@ -17828,7 +18559,8 @@
       "1976/77",
       "1978/79",
       "1980/81",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -18405,6 +19137,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Grasshoppers Zürich",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Grasshoppers Zürich",
+            "away": "Honvéd Budapest",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Honvéd Budapest",
+            "away": "Grasshoppers Zürich",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -18466,7 +19221,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -19891,6 +20647,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Benfica",
+        "country": "Portugal",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Red Star Belgrade",
+            "away": "Benfica",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Benfica",
+            "away": "Red Star Belgrade",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -19920,7 +20699,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -20827,9 +21607,25 @@
             "home": "CSKA Sofia",
             "away": "AS Monaco",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AS Monaco",
+            "away": "CSKA Sofia",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "CSKA Sofia",
+            "away": "AS Monaco",
+            "result": "2-1"
           }
         ],
-        "headtohead": "1-0"
+        "headtohead": "2-0"
       },
       {
         "opponent": "Sporting CP Lisbon",
@@ -20899,6 +21695,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Hamburger SV",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Hamburger SV",
+            "away": "CSKA Sofia",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "CSKA Sofia",
+            "away": "Hamburger SV",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -20920,7 +21739,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -21681,6 +22501,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Honvéd Budapest",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Grasshoppers Zürich",
+            "away": "Honvéd Budapest",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Honvéd Budapest",
+            "away": "Grasshoppers Zürich",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Juventus",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Juventus",
+            "away": "Grasshoppers Zürich",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Grasshoppers Zürich",
+            "away": "Juventus",
+            "result": "2-4"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -21701,7 +22567,8 @@
       "1973/74",
       "1975/76",
       "1977/78",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -22395,6 +23262,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Fenerbahçe",
+        "country": "Turkey",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Fenerbahçe",
+            "away": "Fiorentina",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Fiorentina",
+            "away": "Fenerbahçe",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Anderlecht",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Fiorentina",
+            "away": "Anderlecht",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Anderlecht",
+            "away": "Fiorentina",
+            "result": "6-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -23029,7 +23942,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -24291,9 +25205,25 @@
             "home": "Benfica",
             "away": "Liverpool",
             "result": "1-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Liverpool",
+            "away": "Benfica",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Benfica",
+            "away": "Liverpool",
+            "result": "1-0"
           }
         ],
-        "headtohead": "0-4"
+        "headtohead": "1-5"
       },
       {
         "opponent": "FC Nantes",
@@ -24616,6 +25546,29 @@
           }
         ],
         "headtohead": "2-0"
+      },
+      {
+        "opponent": "Red Star Belgrade",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Red Star Belgrade",
+            "away": "Benfica",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Benfica",
+            "away": "Red Star Belgrade",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -25394,7 +26347,8 @@
       "1968/69",
       "1969/70",
       "1978/79",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -25741,6 +26695,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Linfield Belfast",
+        "country": "Northern Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Linfield Belfast",
+            "away": "Shamrock Rovers",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Shamrock Rovers",
+            "away": "Linfield Belfast",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-0"
       }
     ]
   },
@@ -26937,7 +27914,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -28109,6 +29087,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Red Boys Differdange",
+        "country": "Luxembourg",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Red Boys Differdange",
+            "away": "Ajax",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Ajax",
+            "away": "Red Boys Differdange",
+            "result": "14-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Bohemians Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Ajax",
+            "away": "Bohemians Praha",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Bohemians Praha",
+            "away": "Ajax",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -28368,7 +29392,8 @@
       "1979/80",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -29154,6 +30179,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Videoton Fehérvár",
+            "away": "Dukla Praha",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dukla Praha",
+            "away": "Videoton Fehérvár",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -29240,7 +30288,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -31195,6 +32244,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "FC Metz",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Metz",
+            "away": "FC Barcelona",
+            "result": "2-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Barcelona",
+            "away": "FC Metz",
+            "result": "1-4"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -31349,7 +32421,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -31541,9 +32614,25 @@
             "home": "Internazionale",
             "away": "1.FC Köln",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Internazionale",
+            "away": "1.FC Köln",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "1.FC Köln",
+            "away": "Internazionale",
+            "result": "1-3"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "3-1"
       },
       {
         "opponent": "Hearts FC",
@@ -31758,9 +32847,25 @@
             "home": "Real Madrid",
             "away": "Internazionale",
             "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Internazionale",
+            "away": "Real Madrid",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Real Madrid",
+            "away": "Internazionale",
+            "result": "3-0"
           }
         ],
-        "headtohead": "4-3"
+        "headtohead": "5-4"
       },
       {
         "opponent": "Dinamo Bucuresti",
@@ -31836,9 +32941,25 @@
             "home": "Glasgow Rangers",
             "away": "Internazionale",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Internazionale",
+            "away": "Glasgow Rangers",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Glasgow Rangers",
+            "away": "Internazionale",
+            "result": "3-1"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "2-2"
       },
       {
         "opponent": "Liverpool",
@@ -32698,6 +33819,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Sportul Studentesc",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sportul Studentesc",
+            "away": "Internazionale",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Internazionale",
+            "away": "Sportul Studentesc",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Hamburger SV",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Hamburger SV",
+            "away": "Internazionale",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Internazionale",
+            "away": "Hamburger SV",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -33874,7 +35041,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -34228,9 +35396,17 @@
             "home": "Liverpool",
             "away": "Juventus",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "F",
+            "home": "Juventus",
+            "away": "Liverpool",
+            "result": "1-0"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "2-1"
       },
       {
         "opponent": "Aris Thessaloniki",
@@ -35561,6 +36737,98 @@
           }
         ],
         "headtohead": "1-0"
+      },
+      {
+        "opponent": "Ilves Tampere",
+        "country": "Finland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Ilves Tampere",
+            "away": "Juventus",
+            "result": "0-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Juventus",
+            "away": "Ilves Tampere",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Grasshoppers Zürich",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Juventus",
+            "away": "Grasshoppers Zürich",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Grasshoppers Zürich",
+            "away": "Juventus",
+            "result": "2-4"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Sparta Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Juventus",
+            "away": "Sparta Praha",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Sparta Praha",
+            "away": "Juventus",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Girondins Bordeaux",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Juventus",
+            "away": "Girondins Bordeaux",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Girondins Bordeaux",
+            "away": "Juventus",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -36932,7 +38200,8 @@
       "1975/76",
       "1977/78",
       "1980/81",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -37233,6 +38502,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Fortuna Sittard",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "KB København",
+            "away": "Fortuna Sittard",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Fortuna Sittard",
+            "away": "KB København",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -37615,7 +38907,8 @@
       "1977/78",
       "1979/80",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -38798,6 +40091,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "FC Sion",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Sion",
+            "away": "Atlético Madrid",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Atlético Madrid",
+            "away": "FC Sion",
+            "result": "2-3"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -39667,7 +40983,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -40083,6 +41400,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Avenir Beggen",
+        "country": "Luxembourg",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Avenir Beggen",
+            "away": "IFK Göteborg",
+            "result": "0-8"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "IFK Göteborg",
+            "away": "Avenir Beggen",
+            "result": "9-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "SK Beveren",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "IFK Göteborg",
+            "away": "SK Beveren",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "SK Beveren",
+            "away": "IFK Göteborg",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Panathinaikos",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "IFK Göteborg",
+            "away": "Panathinaikos",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Panathinaikos",
+            "away": "IFK Göteborg",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -40406,7 +41792,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -41412,9 +42799,25 @@
             "home": "1.FC Köln",
             "away": "Standard Liège",
             "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Standard Liège",
+            "away": "1.FC Köln",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "1.FC Köln",
+            "away": "Standard Liège",
+            "result": "2-1"
           }
         ],
-        "headtohead": "0-1"
+        "headtohead": "0-3"
       },
       {
         "opponent": "Floriana",
@@ -41568,6 +42971,29 @@
           }
         ],
         "headtohead": "2-0"
+      },
+      {
+        "opponent": "Glentoran",
+        "country": "Northern Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Glentoran",
+            "away": "Standard Liège",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Standard Liège",
+            "away": "Glentoran",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
       }
     ]
   },
@@ -41579,7 +43005,8 @@
       "1961/62",
       "1963/64",
       "1965/66",
-      "1976/77"
+      "1976/77",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -41788,6 +43215,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Paris Saint-Germain",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Paris Saint-Germain",
+            "away": "Hearts FC",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Hearts FC",
+            "away": "Paris Saint-Germain",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -41904,7 +43354,8 @@
       "1974/75",
       "1975/76",
       "1977/78",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -41965,9 +43416,25 @@
             "home": "Rapid Wien",
             "away": "Besiktas",
             "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Rapid Wien",
+            "away": "Besiktas",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Besiktas",
+            "away": "Rapid Wien",
+            "result": "1-1"
           }
         ],
-        "headtohead": "1-3"
+        "headtohead": "1-4"
       },
       {
         "opponent": "Ajax",
@@ -42574,7 +44041,8 @@
       "1978/79",
       "1979/80",
       "1980/81",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -43114,6 +44582,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Fiorentina",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Fenerbahçe",
+            "away": "Fiorentina",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Fiorentina",
+            "away": "Fenerbahçe",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -43523,7 +45014,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -44090,9 +45582,25 @@
             "home": "Olympiakos Piraeus",
             "away": "Universitatea Craiova",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Universitatea Craiova",
+            "away": "Olympiakos Piraeus",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Olympiakos Piraeus",
+            "away": "Universitatea Craiova",
+            "result": "0-1"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "1-3"
       },
       {
         "opponent": "Östers IF",
@@ -44159,6 +45667,29 @@
             "home": "Olympiakos Piraeus",
             "away": "Ajax",
             "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Xamax Neuchâtel",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Olympiakos Piraeus",
+            "away": "Xamax Neuchâtel",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Xamax Neuchâtel",
+            "away": "Olympiakos Piraeus",
+            "result": "2-2"
           }
         ],
         "headtohead": "1-0"
@@ -44238,7 +45769,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -44669,6 +46201,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Shamrock Rovers",
+        "country": "Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Linfield Belfast",
+            "away": "Shamrock Rovers",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Shamrock Rovers",
+            "away": "Linfield Belfast",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-0"
+      },
+      {
+        "opponent": "Panathinaikos",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Panathinaikos",
+            "away": "Linfield Belfast",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Linfield Belfast",
+            "away": "Panathinaikos",
+            "result": "3-3"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -47516,7 +49094,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -48347,6 +49926,75 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "FCSB",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AS Roma",
+            "away": "Steaua Bucuresti",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Steaua Bucuresti",
+            "away": "AS Roma",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Wrexham",
+        "country": "Wales",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "AS Roma",
+            "away": "Wrexham",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Wrexham",
+            "away": "AS Roma",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Bayern München",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Bayern München",
+            "away": "AS Roma",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "AS Roma",
+            "away": "Bayern München",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -50840,7 +52488,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -51994,6 +53643,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Southampton FC",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Southampton FC",
+            "away": "Hamburger SV",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Hamburger SV",
+            "away": "Southampton FC",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "CSKA Sofia",
+        "country": "Bulgaria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Hamburger SV",
+            "away": "CSKA Sofia",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "CSKA Sofia",
+            "away": "Hamburger SV",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Internazionale",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Hamburger SV",
+            "away": "Internazionale",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Internazionale",
+            "away": "Hamburger SV",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -52218,7 +53936,8 @@
       "1978/79",
       "1980/81",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -52803,6 +54522,98 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Feyenoord",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Feyenoord",
+            "away": "Panathinaikos",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Panathinaikos",
+            "away": "Feyenoord",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Linfield Belfast",
+        "country": "Northern Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Panathinaikos",
+            "away": "Linfield Belfast",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Linfield Belfast",
+            "away": "Panathinaikos",
+            "result": "3-3"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "IFK Göteborg",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "IFK Göteborg",
+            "away": "Panathinaikos",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Panathinaikos",
+            "away": "IFK Göteborg",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Liverpool",
+            "away": "Panathinaikos",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Panathinaikos",
+            "away": "Liverpool",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -54029,7 +55840,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -54883,6 +56695,75 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Valletta FC",
+        "country": "Malta",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Austria Wien",
+            "away": "Valletta FC",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Valletta FC",
+            "away": "Austria Wien",
+            "result": "0-4"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "BFC Dynamo Berlin",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "BFC Dynamo Berlin",
+            "away": "Austria Wien",
+            "result": "3-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Austria Wien",
+            "away": "BFC Dynamo Berlin",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Liverpool",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Austria Wien",
+            "away": "Liverpool",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Liverpool",
+            "away": "Austria Wien",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -54900,7 +56781,8 @@
       "1977/78",
       "1978/79",
       "1979/80",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -55912,6 +57794,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dukla Banska Bystrica",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dukla Banska Bystrica",
+            "away": "Borussia Mönchengladbach",
+            "result": "2-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Borussia Mönchengladbach",
+            "away": "Dukla Banska Bystrica",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Widzew Lódz",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Borussia Mönchengladbach",
+            "away": "Widzew Lódz",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Widzew Lódz",
+            "away": "Borussia Mönchengladbach",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -56518,7 +58446,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -57503,6 +59432,29 @@
           }
         ],
         "headtohead": "2-0"
+      },
+      {
+        "opponent": "Panathinaikos",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Feyenoord",
+            "away": "Panathinaikos",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Panathinaikos",
+            "away": "Feyenoord",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -58083,7 +60035,8 @@
       "1973/74",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -58969,6 +60922,98 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Sporting Braga",
+        "country": "Portugal",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sporting Braga",
+            "away": "Tottenham Hotspur",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Tottenham Hotspur",
+            "away": "Sporting Braga",
+            "result": "6-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Club Brugge",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Club Brugge",
+            "away": "Tottenham Hotspur",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Tottenham Hotspur",
+            "away": "Club Brugge",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Bohemians Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Tottenham Hotspur",
+            "away": "Bohemians Praha",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Bohemians Praha",
+            "away": "Tottenham Hotspur",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Real Madrid",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Tottenham Hotspur",
+            "away": "Real Madrid",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Real Madrid",
+            "away": "Tottenham Hotspur",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -58982,7 +61027,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -59234,9 +61280,25 @@
             "home": "CSKA Sofia",
             "away": "AS Monaco",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AS Monaco",
+            "away": "CSKA Sofia",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "CSKA Sofia",
+            "away": "AS Monaco",
+            "result": "2-1"
           }
         ],
-        "headtohead": "0-1"
+        "headtohead": "0-2"
       }
     ]
   },
@@ -61247,7 +63309,8 @@
       "1961/62",
       "1965/66",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -61456,6 +63519,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Anderlecht",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Anderlecht",
+            "away": "Werder Bremen",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Werder Bremen",
+            "away": "Anderlecht",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -62792,7 +64878,8 @@
       "1978/79",
       "1979/80",
       "1980/81",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -63215,6 +65302,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Club Brugge",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Nottingham Forest",
+            "away": "Club Brugge",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Club Brugge",
+            "away": "Nottingham Forest",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -63239,7 +65349,8 @@
       "1978/79",
       "1980/81",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -63261,9 +65372,25 @@
             "home": "Internazionale",
             "away": "1.FC Köln",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Internazionale",
+            "away": "1.FC Köln",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "1.FC Köln",
+            "away": "Internazionale",
+            "result": "1-3"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "1-3"
       },
       {
         "opponent": "Dundee FC",
@@ -64201,9 +66328,25 @@
             "home": "1.FC Köln",
             "away": "Spartak Moscow",
             "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Spartak Moscow",
+            "away": "1.FC Köln",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "1.FC Köln",
+            "away": "Spartak Moscow",
+            "result": "2-0"
           }
         ],
-        "headtohead": "0-2"
+        "headtohead": "1-3"
       },
       {
         "opponent": "GKS Tychy",
@@ -64424,9 +66567,25 @@
             "home": "1.FC Köln",
             "away": "Standard Liège",
             "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Standard Liège",
+            "away": "1.FC Köln",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "1.FC Köln",
+            "away": "Standard Liège",
+            "result": "2-1"
           }
         ],
-        "headtohead": "1-0"
+        "headtohead": "3-0"
       },
       {
         "opponent": "Ipswich Town",
@@ -64496,6 +66655,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Pogon Szczecin",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "1.FC Köln",
+            "away": "Pogon Szczecin",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Pogon Szczecin",
+            "away": "1.FC Köln",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
       }
     ]
   },
@@ -65589,7 +67771,8 @@
       "1970/71",
       "1971/72",
       "1973/74",
-      "1978/79"
+      "1978/79",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -65814,6 +67997,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Trakia Plovdiv",
+        "country": "Bulgaria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Trakia Plovdiv",
+            "away": "Union Luxembourg",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Union Luxembourg",
+            "away": "Trakia Plovdiv",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -69327,7 +71533,8 @@
       "1977/78",
       "1978/79",
       "1979/80",
-      "1980/81"
+      "1980/81",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -69759,6 +71966,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "AS Roma",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AS Roma",
+            "away": "Steaua Bucuresti",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Steaua Bucuresti",
+            "away": "AS Roma",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -70115,7 +72345,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -71340,6 +73571,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "AA Gent",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AA Gent",
+            "away": "Celtic",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Celtic",
+            "away": "AA Gent",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Rapid Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Rapid Wien",
+            "away": "Celtic",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Celtic",
+            "away": "Rapid Wien",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -71354,7 +73631,8 @@
       "1970/71",
       "1975/76",
       "1978/79",
-      "1979/80"
+      "1979/80",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -71724,6 +74002,113 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Uni College Dublin",
+        "country": "Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Uni College Dublin",
+            "away": "Everton",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Everton",
+            "away": "Uni College Dublin",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Inter Bratislava",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "TJ Internacional",
+            "away": "Everton",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Everton",
+            "away": "TJ Internacional",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Fortuna Sittard",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Everton",
+            "away": "Fortuna Sittard",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Fortuna Sittard",
+            "away": "Everton",
+            "result": "0-2"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Bayern München",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Bayern München",
+            "away": "Everton",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Everton",
+            "away": "Bayern München",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Rapid Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "F",
+            "home": "Everton",
+            "away": "Rapid Wien",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "1-0"
       }
     ]
   },
@@ -71832,7 +74217,8 @@
       "1978/79",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -72340,6 +74726,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Standard Liège",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Glentoran",
+            "away": "Standard Liège",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Standard Liège",
+            "away": "Glentoran",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -74046,7 +76455,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -75388,6 +77798,98 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Moss FK",
+        "country": "Norway",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Bayern München",
+            "away": "Moss FK",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Moss FK",
+            "away": "Bayern München",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Trakia Plovdiv",
+        "country": "Bulgaria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Bayern München",
+            "away": "Trakia Plovdiv",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Trakia Plovdiv",
+            "away": "Bayern München",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "AS Roma",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Bayern München",
+            "away": "AS Roma",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "AS Roma",
+            "away": "Bayern München",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Everton",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Bayern München",
+            "away": "Everton",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Everton",
+            "away": "Bayern München",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -76426,7 +78928,8 @@
       "1978/79",
       "1979/80",
       "1980/81",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -76655,6 +79158,29 @@
             "home": "Glasgow Rangers",
             "away": "Valletta FC",
             "result": "10-0"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Austria Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Austria Wien",
+            "away": "Valletta FC",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Valletta FC",
+            "away": "Austria Wien",
+            "result": "0-4"
           }
         ],
         "headtohead": "0-2"
@@ -78167,7 +80693,8 @@
       "1978/79",
       "1979/80",
       "1980/81",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -78468,6 +80995,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Servette FC Genève",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "APOEL Nicosia",
+            "away": "Servette FC Genève",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Servette FC Genève",
+            "away": "APOEL Nicosia",
+            "result": "3-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -79048,7 +81598,8 @@
       "1965/66",
       "1969/70",
       "1977/78",
-      "1980/81"
+      "1980/81",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -79162,6 +81713,52 @@
             "home": "Radnicki Nis",
             "away": "LASK Linz",
             "result": "4-1"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Östers IF",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Östers IF",
+            "away": "LASK Linz",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "LASK Linz",
+            "away": "Östers IF",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Dundee United",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "LASK Linz",
+            "away": "Dundee United",
+            "result": "1-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Dundee United",
+            "away": "LASK Linz",
+            "result": "5-1"
           }
         ],
         "headtohead": "0-2"
@@ -81119,7 +83716,8 @@
       "1966/67",
       "1970/71",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -81282,6 +83880,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Celtic",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AA Gent",
+            "away": "Celtic",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Celtic",
+            "away": "AA Gent",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -82648,7 +85269,8 @@
       "1966/67",
       "1967/68",
       "1968/69",
-      "1969/70"
+      "1969/70",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -82788,6 +85410,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Queens Park Rangers",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "KR Reykjavik",
+            "away": "Queens Park Rangers",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Queens Park Rangers",
+            "away": "KR Reykjavik",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -82813,7 +85458,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -82927,9 +85573,17 @@
             "home": "Liverpool",
             "away": "Juventus",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "F",
+            "home": "Juventus",
+            "away": "Liverpool",
+            "result": "1-0"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "1-2"
       },
       {
         "opponent": "Standard Liège",
@@ -83932,9 +86586,25 @@
             "home": "Benfica",
             "away": "Liverpool",
             "result": "1-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Liverpool",
+            "away": "Benfica",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Benfica",
+            "away": "Liverpool",
+            "result": "1-0"
           }
         ],
-        "headtohead": "4-0"
+        "headtohead": "5-1"
       },
       {
         "opponent": "Nottingham Forest",
@@ -84204,6 +86874,75 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Lech Poznan",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Lech Poznan",
+            "away": "Liverpool",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Liverpool",
+            "away": "Lech Poznan",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Austria Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Austria Wien",
+            "away": "Liverpool",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Liverpool",
+            "away": "Austria Wien",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Panathinaikos",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Liverpool",
+            "away": "Panathinaikos",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Panathinaikos",
+            "away": "Liverpool",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
       }
     ]
   },
@@ -84295,7 +87034,8 @@
       "1974/75",
       "1979/80",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -84681,6 +87421,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Manchester United",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Manchester United",
+            "away": "ETO Györ",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "ETO Györ",
+            "away": "Manchester United",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -84947,7 +87710,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -85617,6 +88381,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Dynamo Dresden",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Malmö FF",
+            "away": "Dynamo Dresden",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Dynamo Dresden",
+            "away": "Malmö FF",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -86484,7 +89271,8 @@
       "1976/77",
       "1980/81",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -87051,6 +89839,75 @@
             "home": "Hajduk Split",
             "away": "Sparta Praha",
             "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Vålerengens IF",
+        "country": "Norway",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Vålerengens IF",
+            "away": "Sparta Praha",
+            "result": "3-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Sparta Praha",
+            "away": "Vålerengens IF",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Lyngby BK",
+        "country": "Denmark",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Sparta Praha",
+            "away": "Lyngby BK",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Lyngby BK",
+            "away": "Sparta Praha",
+            "result": "1-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Juventus",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Juventus",
+            "away": "Sparta Praha",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Sparta Praha",
+            "away": "Juventus",
+            "result": "1-0"
           }
         ],
         "headtohead": "1-1"
@@ -89398,7 +92255,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -89926,6 +92784,22 @@
             "home": "Levski-Spartak Sofia",
             "away": "VfB Stuttgart",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Levski-Spartak Sofia",
+            "away": "VfB Stuttgart",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "VfB Stuttgart",
+            "away": "Levski-Spartak Sofia",
+            "result": "2-2"
           }
         ],
         "headtohead": "0-1"
@@ -89940,7 +92814,8 @@
       "1966/67",
       "1975/76",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -90080,6 +92955,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Sparta Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Vålerengens IF",
+            "away": "Sparta Praha",
+            "result": "3-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Sparta Praha",
+            "away": "Vålerengens IF",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -90382,7 +93280,8 @@
       "1969/70",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -90519,9 +93418,25 @@
             "home": "Athletic Bilbao",
             "away": "Girondins Bordeaux",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Girondins Bordeaux",
+            "away": "Athletic Bilbao",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Athletic Bilbao",
+            "away": "Girondins Bordeaux",
+            "result": "0-0"
           }
         ],
-        "headtohead": "0-2"
+        "headtohead": "1-2"
       },
       {
         "opponent": "1.FC Köln",
@@ -90706,6 +93621,75 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Dinamo Bucuresti",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Girondins Bordeaux",
+            "away": "Dinamo Bucuresti",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Dinamo Bucuresti",
+            "away": "Girondins Bordeaux",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Dnipro Dnipropetrovsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Girondins Bordeaux",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Girondins Bordeaux",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-0"
+      },
+      {
+        "opponent": "Juventus",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Juventus",
+            "away": "Girondins Bordeaux",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "SF",
+            "home": "Girondins Bordeaux",
+            "away": "Juventus",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -91066,7 +94050,8 @@
     "seasons": [
       "1964/65",
       "1977/78",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -91183,6 +94168,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Universitatea Craiova",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Betis",
+            "away": "Universitatea Craiova",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Universitatea Craiova",
+            "away": "Real Betis",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -91646,7 +94654,8 @@
       "1975/76",
       "1979/80",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -91855,6 +94864,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Dinamo Minsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dinamo Minsk",
+            "away": "HJK Helsinki",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "HJK Helsinki",
+            "away": "Dinamo Minsk",
+            "result": "0-6"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -91876,7 +94908,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -92505,6 +95538,22 @@
             "home": "Levski-Spartak Sofia",
             "away": "VfB Stuttgart",
             "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Levski-Spartak Sofia",
+            "away": "VfB Stuttgart",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "VfB Stuttgart",
+            "away": "Levski-Spartak Sofia",
+            "result": "2-2"
           }
         ],
         "headtohead": "1-0"
@@ -92531,6 +95580,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Dnipro Dnipropetrovsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Levski-Spartak Sofia",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Levski-Spartak Sofia",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -93152,7 +96224,8 @@
       "1973/74",
       "1974/75",
       "1980/81",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -93292,6 +96365,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Atlético Madrid",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Sion",
+            "away": "Atlético Madrid",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Atlético Madrid",
+            "away": "FC Sion",
+            "result": "2-3"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Zeljeznicar Sarajevo",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "FC Sion",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "FC Sion",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -94043,7 +97162,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -94364,6 +97484,29 @@
             "home": "Omonia Nicosia",
             "away": "CSKA Sofia",
             "result": "4-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dinamo Bucuresti",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Dinamo Bucuresti",
+            "away": "Omonia Nicosia",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Omonia Nicosia",
+            "away": "Dinamo Bucuresti",
+            "result": "2-1"
           }
         ],
         "headtohead": "1-1"
@@ -95837,7 +98980,8 @@
       "1968/69",
       "1973/74",
       "1975/76",
-      "1976/77"
+      "1976/77",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -96000,6 +99144,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Dundee United",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AIK Stockholm",
+            "away": "Dundee United",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dundee United",
+            "away": "AIK Stockholm",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -98784,7 +101951,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -99052,9 +102220,25 @@
             "home": "1.FC Köln",
             "away": "Spartak Moscow",
             "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Spartak Moscow",
+            "away": "1.FC Köln",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "1.FC Köln",
+            "away": "Spartak Moscow",
+            "result": "2-0"
           }
         ],
-        "headtohead": "2-0"
+        "headtohead": "3-1"
       },
       {
         "opponent": "Jeunesse d'Esch",
@@ -99331,6 +102515,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "OB Odense",
+        "country": "Denmark",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "OB Odense",
+            "away": "Spartak Moscow",
+            "result": "1-5"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Spartak Moscow",
+            "away": "OB Odense",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Lokomotive Leipzig",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Lokomotive Leipzig",
+            "away": "Spartak Moscow",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Spartak Moscow",
+            "away": "Lokomotive Leipzig",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
       }
     ]
   },
@@ -99339,7 +102569,8 @@
     "seasons": [
       "1966/67",
       "1978/79",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -99456,6 +102687,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sporting Braga",
+            "away": "Tottenham Hotspur",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Tottenham Hotspur",
+            "away": "Sporting Braga",
+            "result": "6-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -99464,7 +102718,8 @@
     "seasons": [
       "1966/67",
       "1967/68",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -99532,6 +102787,29 @@
             "home": "Apollon Limassol",
             "away": "FC Barcelona",
             "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
+      },
+      {
+        "opponent": "Bohemians Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Bohemians Praha",
+            "away": "Apollon Limassol",
+            "result": "6-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Apollon Limassol",
+            "away": "Bohemians Praha",
+            "result": "2-2"
           }
         ],
         "headtohead": "0-1"
@@ -99823,7 +103101,8 @@
       "1978/79",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -100377,6 +103656,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Lillestrøm SK",
+        "country": "Norway",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Lokomotive Leipzig",
+            "away": "Lillestrøm SK",
+            "result": "7-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Lillestrøm SK",
+            "away": "Lokomotive Leipzig",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Spartak Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Lokomotive Leipzig",
+            "away": "Spartak Moscow",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Spartak Moscow",
+            "away": "Lokomotive Leipzig",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -100425,7 +103750,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -101041,6 +104367,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "AIK Stockholm",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AIK Stockholm",
+            "away": "Dundee United",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dundee United",
+            "away": "AIK Stockholm",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "LASK",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "LASK Linz",
+            "away": "Dundee United",
+            "result": "1-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Dundee United",
+            "away": "LASK Linz",
+            "result": "5-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Manchester United",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Manchester United",
+            "away": "Dundee United",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Dundee United",
+            "away": "Manchester United",
+            "result": "2-3"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -102549,7 +105944,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -103210,6 +106606,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "BFC Dynamo Berlin",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Aberdeen",
+            "away": "BFC Dynamo Berlin",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "BFC Dynamo Berlin",
+            "away": "Aberdeen",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -103986,7 +107405,8 @@
       "1979/80",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -104733,6 +108153,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dinamo Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Dinamo Moscow",
+            "away": "Hajduk Split",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Hajduk Split",
+            "away": "Dinamo Moscow",
+            "result": "2-5"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -104742,7 +108185,8 @@
       "1967/68",
       "1976/77",
       "1978/79",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -104921,6 +108365,52 @@
           }
         ],
         "headtohead": "1-3"
+      },
+      {
+        "opponent": "IBV Vestmannaeyjar",
+        "country": "Iceland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Wisla Kraków",
+            "away": "IBV Vestmannaeyjar",
+            "result": "4-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "IBV Vestmannaeyjar",
+            "away": "Wisla Kraków",
+            "result": "1-3"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Fortuna Sittard",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Fortuna Sittard",
+            "away": "Wisla Kraków",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Wisla Kraków",
+            "away": "Fortuna Sittard",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -105088,7 +108578,8 @@
       "1977/78",
       "1978/79",
       "1980/81",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -105735,6 +109226,52 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Nottingham Forest",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Nottingham Forest",
+            "away": "Club Brugge",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Club Brugge",
+            "away": "Nottingham Forest",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Club Brugge",
+            "away": "Tottenham Hotspur",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Tottenham Hotspur",
+            "away": "Club Brugge",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -105904,7 +109441,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -106641,6 +110179,75 @@
             "home": "B93 København",
             "away": "Dynamo Dresden",
             "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Malmö FF",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Malmö FF",
+            "away": "Dynamo Dresden",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Dynamo Dresden",
+            "away": "Malmö FF",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "FC Metz",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Dynamo Dresden",
+            "away": "FC Metz",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "FC Metz",
+            "away": "Dynamo Dresden",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Rapid Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Dynamo Dresden",
+            "away": "Rapid Wien",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Rapid Wien",
+            "away": "Dynamo Dresden",
+            "result": "5-0"
           }
         ],
         "headtohead": "1-1"
@@ -108419,7 +112026,8 @@
       "1977/78",
       "1978/79",
       "1979/80",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -108487,9 +112095,25 @@
             "home": "Wacker Innsbruck",
             "away": "Real Madrid",
             "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Madrid",
+            "away": "Wacker Innsbruck",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Wacker Innsbruck",
+            "away": "Real Madrid",
+            "result": "2-0"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "2-2"
       },
       {
         "opponent": "Benfica",
@@ -108933,7 +112557,8 @@
       "1968/69",
       "1970/71",
       "1978/79",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -109024,6 +112649,52 @@
             "home": "Trakia Plovdiv",
             "away": "FC Barcelona",
             "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Union Luxembourg",
+        "country": "Luxembourg",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Trakia Plovdiv",
+            "away": "Union Luxembourg",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Union Luxembourg",
+            "away": "Trakia Plovdiv",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Bayern München",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Bayern München",
+            "away": "Trakia Plovdiv",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Trakia Plovdiv",
+            "away": "Bayern München",
+            "result": "2-0"
           }
         ],
         "headtohead": "1-1"
@@ -109237,7 +112908,8 @@
     "country": "France",
     "seasons": [
       "1968/69",
-      "1969/70"
+      "1969/70",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -109282,6 +112954,52 @@
             "home": "Napoli",
             "away": "FC Metz",
             "result": "2-1"
+          }
+        ],
+        "headtohead": "0-1"
+      },
+      {
+        "opponent": "FC Barcelona",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Metz",
+            "away": "FC Barcelona",
+            "result": "2-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Barcelona",
+            "away": "FC Metz",
+            "result": "1-4"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dynamo Dresden",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Dynamo Dresden",
+            "away": "FC Metz",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "FC Metz",
+            "away": "Dynamo Dresden",
+            "result": "0-0"
           }
         ],
         "headtohead": "0-1"
@@ -109526,7 +113244,8 @@
       "1977/78",
       "1979/80",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -109804,6 +113523,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "LASK",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Östers IF",
+            "away": "LASK Linz",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "LASK Linz",
+            "away": "Östers IF",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -110009,7 +113751,8 @@
       "1974/75",
       "1975/76",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -110126,6 +113869,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "IFK Göteborg",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Avenir Beggen",
+            "away": "IFK Göteborg",
+            "result": "0-8"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "IFK Göteborg",
+            "away": "Avenir Beggen",
+            "result": "9-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -110138,7 +113904,8 @@
       "1978/79",
       "1980/81",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -110324,6 +114091,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Wisla Kraków",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Wisla Kraków",
+            "away": "IBV Vestmannaeyjar",
+            "result": "4-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "IBV Vestmannaeyjar",
+            "away": "Wisla Kraków",
+            "result": "1-3"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -113184,7 +116974,8 @@
       "1971/72",
       "1976/77",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -113416,6 +117207,29 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Hamburger SV",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Southampton FC",
+            "away": "Hamburger SV",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Hamburger SV",
+            "away": "Southampton FC",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -114154,7 +117968,8 @@
       "1976/77",
       "1977/78",
       "1978/79",
-      "1979/80"
+      "1979/80",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -114245,9 +118060,25 @@
             "home": "Bohemians Dublin",
             "away": "Glasgow Rangers",
             "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Bohemians Dublin",
+            "away": "Glasgow Rangers",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Glasgow Rangers",
+            "away": "Bohemians Dublin",
+            "result": "2-0"
           }
         ],
-        "headtohead": "0-1"
+        "headtohead": "1-2"
       },
       {
         "opponent": "Esbjerg fB",
@@ -114795,7 +118626,8 @@
     "seasons": [
       "1970/71",
       "1971/72",
-      "1972/73"
+      "1972/73",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -114935,6 +118767,121 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "FC Sliven",
+        "country": "Bulgaria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Sliven",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "FC Sliven",
+            "result": "5-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "FC Sion",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "FC Sion",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "FC Sion",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Universitatea Craiova",
+        "country": "Romania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Universitatea Craiova",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Universitatea Craiova",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dinamo Minsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Dinamo Minsk",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Dinamo Minsk",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Videoton Fehérvár",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Videoton Fehérvár",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -115373,7 +119320,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -115687,9 +119635,25 @@
             "home": "Olympiakos Piraeus",
             "away": "Universitatea Craiova",
             "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Universitatea Craiova",
+            "away": "Olympiakos Piraeus",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Olympiakos Piraeus",
+            "away": "Universitatea Craiova",
+            "result": "0-1"
           }
         ],
-        "headtohead": "1-1"
+        "headtohead": "3-1"
       },
       {
         "opponent": "KB København",
@@ -115851,6 +119815,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Real Betis",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Betis",
+            "away": "Universitatea Craiova",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Universitatea Craiova",
+            "away": "Real Betis",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Zeljeznicar Sarajevo",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Universitatea Craiova",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Universitatea Craiova",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -115969,7 +119979,8 @@
       "1978/79",
       "1979/80",
       "1981/82",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -116247,6 +120258,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "IA Akranes",
+        "country": "Iceland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "IA Akranes",
+            "away": "SK Beveren",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "SK Beveren",
+            "away": "IA Akranes",
+            "result": "5-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "IFK Göteborg",
+        "country": "Sweden",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "IFK Göteborg",
+            "away": "SK Beveren",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "SK Beveren",
+            "away": "IFK Göteborg",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -116816,7 +120873,8 @@
       "1978/79",
       "1979/80",
       "1980/81",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -117038,6 +121096,29 @@
             "home": "Aberdeen",
             "away": "IA Akranes",
             "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
+      },
+      {
+        "opponent": "SK Beveren",
+        "country": "Belgium",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "IA Akranes",
+            "away": "SK Beveren",
+            "result": "2-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "SK Beveren",
+            "away": "IA Akranes",
+            "result": "5-0"
           }
         ],
         "headtohead": "0-1"
@@ -117363,7 +121444,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -117848,6 +121930,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Aberdeen",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Aberdeen",
+            "away": "BFC Dynamo Berlin",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "BFC Dynamo Berlin",
+            "away": "Aberdeen",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Austria Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "BFC Dynamo Berlin",
+            "away": "Austria Wien",
+            "result": "3-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Austria Wien",
+            "away": "BFC Dynamo Berlin",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -118056,7 +122184,8 @@
       "1977/78",
       "1979/80",
       "1980/81",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -118415,6 +122544,98 @@
             "home": "Dinamo Moscow",
             "away": "Slask Wroclaw",
             "result": "0-1"
+          }
+        ],
+        "headtohead": "0-1"
+      },
+      {
+        "opponent": "Hajduk Split",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Dinamo Moscow",
+            "away": "Hajduk Split",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Hajduk Split",
+            "away": "Dinamo Moscow",
+            "result": "2-5"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Hamrun Spartans",
+        "country": "Malta",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Dinamo Moscow",
+            "away": "Hamrun Spartans",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Hamrun Spartans",
+            "away": "Dinamo Moscow",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "AE Larissa",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "AE Larissa",
+            "away": "Dinamo Moscow",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Dinamo Moscow",
+            "away": "AE Larissa",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Rapid Wien",
+        "country": "Austria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Rapid Wien",
+            "away": "Dinamo Moscow",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "SF",
+            "home": "Dinamo Moscow",
+            "away": "Rapid Wien",
+            "result": "1-1"
           }
         ],
         "headtohead": "0-1"
@@ -120029,7 +124250,8 @@
       "1972/73",
       "1975/76",
       "1978/79",
-      "1979/80"
+      "1979/80",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -120192,6 +124414,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "FC Porto",
+        "country": "Portugal",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Wrexham",
+            "away": "FC Porto",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "FC Porto",
+            "away": "Wrexham",
+            "result": "4-3"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "AS Roma",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "AS Roma",
+            "away": "Wrexham",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Wrexham",
+            "away": "AS Roma",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -120345,7 +124613,8 @@
       "1979/80",
       "1980/81",
       "1981/82",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -120524,6 +124793,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Ajax",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Red Boys Differdange",
+            "away": "Ajax",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Ajax",
+            "away": "Red Boys Differdange",
+            "result": "14-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -125142,7 +129434,8 @@
     "seasons": [
       "1974/75",
       "1976/77",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -125259,6 +129552,144 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Dukla Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Videoton Fehérvár",
+            "away": "Dukla Praha",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dukla Praha",
+            "away": "Videoton Fehérvár",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Paris Saint-Germain",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Paris Saint-Germain",
+            "away": "Videoton Fehérvár",
+            "result": "2-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Videoton Fehérvár",
+            "away": "Paris Saint-Germain",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Partizan Belgrade",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Videoton Fehérvár",
+            "away": "Partizan Belgrade",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Partizan Belgrade",
+            "away": "Videoton Fehérvár",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Manchester United",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Manchester United",
+            "away": "Videoton Fehérvár",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Videoton Fehérvár",
+            "away": "Manchester United",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Zeljeznicar Sarajevo",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Videoton Fehérvár",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "SF",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Videoton Fehérvár",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Real Madrid",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "F",
+            "home": "Videoton Fehérvár",
+            "away": "Real Madrid",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "F",
+            "home": "Real Madrid",
+            "away": "Videoton Fehérvár",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -125268,7 +129699,8 @@
       "1974/75",
       "1980/81",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -125385,6 +129817,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "PSV Eindhoven",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Vorwärts Frankfurt",
+            "away": "PSV Eindhoven",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "PSV Eindhoven",
+            "away": "FC Vorwärts Frankfurt",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -126771,7 +131226,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -127049,6 +131505,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Apollon Limassol",
+        "country": "Cyprus",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Bohemians Praha",
+            "away": "Apollon Limassol",
+            "result": "6-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Apollon Limassol",
+            "away": "Bohemians Praha",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Ajax",
+        "country": "Netherlands",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Ajax",
+            "away": "Bohemians Praha",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Bohemians Praha",
+            "away": "Ajax",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Tottenham Hotspur",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Tottenham Hotspur",
+            "away": "Bohemians Praha",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Bohemians Praha",
+            "away": "Tottenham Hotspur",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -127753,7 +132278,8 @@
     "seasons": [
       "1975/76",
       "1977/78",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -127916,6 +132442,52 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Kuusysi Lahti",
+        "country": "Finland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "TJ Internacional",
+            "away": "Kuusysi Lahti",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Kuusysi Lahti",
+            "away": "TJ Internacional",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Everton",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "TJ Internacional",
+            "away": "Everton",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Everton",
+            "away": "TJ Internacional",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -127928,7 +132500,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -128111,6 +132684,29 @@
             "home": "Internazionale",
             "away": "Trabzonspor",
             "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dnipro Dnipropetrovsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Trabzonspor",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Trabzonspor",
+            "result": "3-0"
           }
         ],
         "headtohead": "1-1"
@@ -128486,7 +133082,8 @@
   "Queens Park Rangers": {
     "country": "England",
     "seasons": [
-      "1976/77"
+      "1976/77",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -128577,6 +133174,52 @@
             "home": "AEK Athens",
             "away": "Queens Park Rangers",
             "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "KR Reykjavik",
+        "country": "Iceland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "KR Reykjavik",
+            "away": "Queens Park Rangers",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Queens Park Rangers",
+            "away": "KR Reykjavik",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Partizan Belgrade",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Queens Park Rangers",
+            "away": "Partizan Belgrade",
+            "result": "6-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Partizan Belgrade",
+            "away": "Queens Park Rangers",
+            "result": "4-0"
           }
         ],
         "headtohead": "1-1"
@@ -129148,7 +133791,8 @@
     "country": "Romania",
     "seasons": [
       "1976/77",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -129219,6 +133863,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Internazionale",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sportul Studentesc",
+            "away": "Internazionale",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Internazionale",
+            "away": "Sportul Studentesc",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -129283,7 +133950,8 @@
       "1977/78",
       "1978/79",
       "1979/80",
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -129400,6 +134068,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Lokomotive Leipzig",
+        "country": "East Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Lokomotive Leipzig",
+            "away": "Lillestrøm SK",
+            "result": "7-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Lillestrøm SK",
+            "away": "Lokomotive Leipzig",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -130225,7 +134916,8 @@
       "1980/81",
       "1981/82",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -130516,6 +135208,75 @@
             "home": "Sparta Praha",
             "away": "Widzew Lódz",
             "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "AGF Aarhus",
+        "country": "Denmark",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Widzew Lódz",
+            "away": "AGF Aarhus",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AGF Aarhus",
+            "away": "Widzew Lódz",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Borussia Mönchengladbach",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Borussia Mönchengladbach",
+            "away": "Widzew Lódz",
+            "result": "3-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Widzew Lódz",
+            "away": "Borussia Mönchengladbach",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Dinamo Minsk",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Widzew Lódz",
+            "away": "Dinamo Minsk",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Dinamo Minsk",
+            "away": "Widzew Lódz",
+            "result": "0-1"
           }
         ],
         "headtohead": "1-1"
@@ -130829,7 +135590,8 @@
     "country": "Denmark",
     "seasons": [
       "1978/79",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -130877,6 +135639,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Spartak Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "OB Odense",
+            "away": "Spartak Moscow",
+            "result": "1-5"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Spartak Moscow",
+            "away": "OB Odense",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -130885,7 +135670,8 @@
     "seasons": [
       "1978/79",
       "1980/81",
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -130953,6 +135739,29 @@
             "home": "AS Roma",
             "away": "Ballymena United",
             "result": "4-0"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Hamrun Spartans",
+        "country": "Malta",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Ballymena United",
+            "away": "Hamrun Spartans",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Hamrun Spartans",
+            "away": "Ballymena United",
+            "result": "2-1"
           }
         ],
         "headtohead": "0-2"
@@ -131042,7 +135851,8 @@
     "country": "Yugoslavia",
     "seasons": [
       "1978/79",
-      "1979/80"
+      "1979/80",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -131159,6 +135969,52 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Real Valladolid",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Valladolid",
+            "away": "NK Rijeka",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "NK Rijeka",
+            "away": "Real Valladolid",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Real Madrid",
+        "country": "Spain",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "NK Rijeka",
+            "away": "Real Madrid",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Real Madrid",
+            "away": "NK Rijeka",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
       }
     ]
   },
@@ -131354,7 +136210,8 @@
     "seasons": [
       "1978/79",
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -131448,6 +136305,29 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Liverpool",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Lech Poznan",
+            "away": "Liverpool",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Liverpool",
+            "away": "Lech Poznan",
+            "result": "4-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -132046,7 +136926,8 @@
   "Ilves Tampere": {
     "country": "Finland",
     "seasons": [
-      "1980/81"
+      "1980/81",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -132068,6 +136949,29 @@
             "home": "Feyenoord",
             "away": "Ilves Tampere",
             "result": "4-2"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Juventus",
+        "country": "Italy",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Ilves Tampere",
+            "away": "Juventus",
+            "result": "0-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Juventus",
+            "away": "Ilves Tampere",
+            "result": "2-1"
           }
         ],
         "headtohead": "0-2"
@@ -132783,7 +137687,8 @@
   "Moss FK": {
     "country": "Norway",
     "seasons": [
-      "1980/81"
+      "1980/81",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -132805,6 +137710,29 @@
             "home": "Moss FK",
             "away": "1.FC Magdeburg",
             "result": "2-3"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Bayern München",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Bayern München",
+            "away": "Moss FK",
+            "result": "4-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Moss FK",
+            "away": "Bayern München",
+            "result": "1-2"
           }
         ],
         "headtohead": "0-2"
@@ -133117,7 +138045,8 @@
   "Xamax Neuchâtel": {
     "country": "Switzerland",
     "seasons": [
-      "1981/82"
+      "1981/82",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133211,6 +138140,29 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "Olympiakos Piraeus",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Olympiakos Piraeus",
+            "away": "Xamax Neuchâtel",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Xamax Neuchâtel",
+            "away": "Olympiakos Piraeus",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -133218,7 +138170,8 @@
     "country": "France",
     "seasons": [
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133335,6 +138288,52 @@
           }
         ],
         "headtohead": "0-0"
+      },
+      {
+        "opponent": "Hearts FC",
+        "country": "Scotland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Paris Saint-Germain",
+            "away": "Hearts FC",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Hearts FC",
+            "away": "Paris Saint-Germain",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Fehérvár FC",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Paris Saint-Germain",
+            "away": "Videoton Fehérvár",
+            "result": "2-4"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Videoton Fehérvár",
+            "away": "Paris Saint-Germain",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
@@ -133396,7 +138395,8 @@
     "country": "Finland",
     "seasons": [
       "1982/83",
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133444,6 +138444,29 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Inter Bratislava",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "TJ Internacional",
+            "away": "Kuusysi Lahti",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Kuusysi Lahti",
+            "away": "TJ Internacional",
+            "result": "0-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -133589,7 +138612,8 @@
   "Lyngby BK": {
     "country": "Denmark",
     "seasons": [
-      "1982/83"
+      "1982/83",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133611,6 +138635,52 @@
             "home": "IK Brage",
             "away": "Lyngby BK",
             "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
+      },
+      {
+        "opponent": "Labinoti Elbasan",
+        "country": "Albania",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Labinoti Elbasan",
+            "away": "Lyngby BK",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Lyngby BK",
+            "away": "Labinoti Elbasan",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Sparta Praha",
+        "country": "Czechoslovakia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Sparta Praha",
+            "away": "Lyngby BK",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Lyngby BK",
+            "away": "Sparta Praha",
+            "result": "1-2"
           }
         ],
         "headtohead": "0-1"
@@ -133705,7 +138775,8 @@
   "Dinamo Minsk": {
     "country": "Soviet Union",
     "seasons": [
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133776,13 +138847,106 @@
           }
         ],
         "headtohead": "0-1"
+      },
+      {
+        "opponent": "HJK Helsinki",
+        "country": "Finland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dinamo Minsk",
+            "away": "HJK Helsinki",
+            "result": "4-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "HJK Helsinki",
+            "away": "Dinamo Minsk",
+            "result": "0-6"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Sporting CP Lisbon",
+        "country": "Portugal",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Sporting CP Lisbon",
+            "away": "Dinamo Minsk",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R2",
+            "home": "Dinamo Minsk",
+            "away": "Sporting CP Lisbon",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Widzew Lódz",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Widzew Lódz",
+            "away": "Dinamo Minsk",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R3",
+            "home": "Dinamo Minsk",
+            "away": "Widzew Lódz",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Zeljeznicar Sarajevo",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "Dinamo Minsk",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "QF",
+            "home": "Dinamo Minsk",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
   "Hamrun Spartans": {
     "country": "Malta",
     "seasons": [
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -133804,6 +138968,52 @@
             "home": "Dundee United",
             "away": "Hamrun Spartans",
             "result": "3-0"
+          }
+        ],
+        "headtohead": "0-2"
+      },
+      {
+        "opponent": "Ballymena United",
+        "country": "Northern Ireland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Ballymena United",
+            "away": "Hamrun Spartans",
+            "result": "0-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Hamrun Spartans",
+            "away": "Ballymena United",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Dinamo Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Dinamo Moscow",
+            "away": "Hamrun Spartans",
+            "result": "5-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Hamrun Spartans",
+            "away": "Dinamo Moscow",
+            "result": "0-1"
           }
         ],
         "headtohead": "0-2"
@@ -134199,7 +139409,8 @@
   "Rabat Ajax": {
     "country": "Malta",
     "seasons": [
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -134224,13 +139435,37 @@
           }
         ],
         "headtohead": "0-2"
+      },
+      {
+        "opponent": "Partizan Belgrade",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Rabat Ajax",
+            "away": "Partizan Belgrade",
+            "result": "0-2"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Partizan Belgrade",
+            "away": "Rabat Ajax",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-2"
       }
     ]
   },
   "AE Larissa": {
     "country": "Greece",
     "seasons": [
-      "1983/84"
+      "1983/84",
+      "1984/85"
     ],
     "opponents": [
       {
@@ -134255,6 +139490,75 @@
           }
         ],
         "headtohead": "1-1"
+      },
+      {
+        "opponent": "Siófoki Bányász",
+        "country": "Hungary",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Siófoki Bányász",
+            "away": "AE Larissa",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AE Larissa",
+            "away": "Siófoki Bányász",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Servette FC Genève",
+        "country": "Switzerland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "AE Larissa",
+            "away": "Servette FC Genève",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Servette FC Genève",
+            "away": "AE Larissa",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "2-0"
+      },
+      {
+        "opponent": "Dinamo Moscow",
+        "country": "Soviet Union",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "AE Larissa",
+            "away": "Dinamo Moscow",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Dinamo Moscow",
+            "away": "AE Larissa",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   },
@@ -134309,6 +139613,408 @@
           }
         ],
         "headtohead": "0-0"
+      }
+    ]
+  },
+  "Labinoti Elbasan": {
+    "country": "Albania",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Lyngby BK",
+        "country": "Denmark",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Labinoti Elbasan",
+            "away": "Lyngby BK",
+            "result": "0-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Lyngby BK",
+            "away": "Labinoti Elbasan",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "0-2"
+      }
+    ]
+  },
+  "Dnipro Dnipropetrovsk": {
+    "country": "Soviet Union",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Trabzonspor",
+        "country": "Turkey",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Trabzonspor",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R1",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Trabzonspor",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Levski Sofia",
+        "country": "Bulgaria",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Levski-Spartak Sofia",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "3-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "R2",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Levski-Spartak Sofia",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Girondins Bordeaux",
+        "country": "France",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Girondins Bordeaux",
+            "away": "Dnepr Dnepropetrovsk",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CL",
+            "instance": "QF",
+            "home": "Dnepr Dnepropetrovsk",
+            "away": "Girondins Bordeaux",
+            "result": "1-1"
+          }
+        ],
+        "headtohead": "0-0"
+      }
+    ]
+  },
+  "Uni College Dublin": {
+    "country": "Ireland",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Everton",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Uni College Dublin",
+            "away": "Everton",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Everton",
+            "away": "Uni College Dublin",
+            "result": "1-0"
+          }
+        ],
+        "headtohead": "0-1"
+      }
+    ]
+  },
+  "Fortuna Sittard": {
+    "country": "Netherlands",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "KB København",
+        "country": "Denmark",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "KB København",
+            "away": "Fortuna Sittard",
+            "result": "0-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Fortuna Sittard",
+            "away": "KB København",
+            "result": "3-0"
+          }
+        ],
+        "headtohead": "1-0"
+      },
+      {
+        "opponent": "Wisla Kraków",
+        "country": "Poland",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Fortuna Sittard",
+            "away": "Wisla Kraków",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R2",
+            "home": "Wisla Kraków",
+            "away": "Fortuna Sittard",
+            "result": "2-1"
+          }
+        ],
+        "headtohead": "1-1"
+      },
+      {
+        "opponent": "Everton",
+        "country": "England",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Everton",
+            "away": "Fortuna Sittard",
+            "result": "3-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "QF",
+            "home": "Fortuna Sittard",
+            "away": "Everton",
+            "result": "0-2"
+          }
+        ],
+        "headtohead": "0-2"
+      }
+    ]
+  },
+  "Siófoki Bányász": {
+    "country": "Hungary",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "AE Larissa",
+        "country": "Greece",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "Siófoki Bányász",
+            "away": "AE Larissa",
+            "result": "1-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "CW",
+            "instance": "R1",
+            "home": "AE Larissa",
+            "away": "Siófoki Bányász",
+            "result": "2-0"
+          }
+        ],
+        "headtohead": "0-1"
+      }
+    ]
+  },
+  "Real Valladolid": {
+    "country": "Spain",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "NK Rijeka",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Real Valladolid",
+            "away": "NK Rijeka",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "NK Rijeka",
+            "away": "Real Valladolid",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "1-1"
+      }
+    ]
+  },
+  "Pogon Szczecin": {
+    "country": "Poland",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "1.FC Köln",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "1.FC Köln",
+            "away": "Pogon Szczecin",
+            "result": "2-1"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Pogon Szczecin",
+            "away": "1.FC Köln",
+            "result": "0-1"
+          }
+        ],
+        "headtohead": "0-2"
+      }
+    ]
+  },
+  "FC Sliven": {
+    "country": "Bulgaria",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Zeljeznicar Sarajevo",
+        "country": "Yugoslavia",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "FC Sliven",
+            "away": "Zeljeznicar Sarajevo",
+            "result": "1-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Zeljeznicar Sarajevo",
+            "away": "FC Sliven",
+            "result": "5-1"
+          }
+        ],
+        "headtohead": "1-1"
+      }
+    ]
+  },
+  "Dukla Banska Bystrica": {
+    "country": "Czechoslovakia",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Borussia Mönchengladbach",
+        "country": "Germany",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Dukla Banska Bystrica",
+            "away": "Borussia Mönchengladbach",
+            "result": "2-3"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Borussia Mönchengladbach",
+            "away": "Dukla Banska Bystrica",
+            "result": "4-1"
+          }
+        ],
+        "headtohead": "0-2"
+      }
+    ]
+  },
+  "AJ Auxerre": {
+    "country": "France",
+    "seasons": [
+      "1984/85"
+    ],
+    "opponents": [
+      {
+        "opponent": "Sporting CP Lisbon",
+        "country": "Portugal",
+        "matches": [
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "Sporting CP Lisbon",
+            "away": "AJ Auxerre",
+            "result": "2-0"
+          },
+          {
+            "season": "1984/85",
+            "competition": "EL",
+            "instance": "R1",
+            "home": "AJ Auxerre",
+            "away": "Sporting CP Lisbon",
+            "result": "2-2"
+          }
+        ],
+        "headtohead": "0-1"
       }
     ]
   }
