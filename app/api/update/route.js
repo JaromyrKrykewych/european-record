@@ -6,7 +6,7 @@ import path from "path";
 
 export async function GET() {
   const sheetId = process.env.GOOGLE_SHEET_ID;
-  const range = "1983-84!A1:J126";
+  const range = "1984-85!A1:J126";
   const rawMatches = await getSheetData(sheetId, range);
 
   const headers = rawMatches[0];

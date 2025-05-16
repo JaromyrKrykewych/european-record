@@ -1,5 +1,6 @@
 "use client";
 
+import { fiftyMatches, mainLeague, tenMatches } from "@/data/selectedTeams";
 import { useEffect, useState } from "react";
 
 import LeagueTable from "@/components/Standings";
@@ -7,10 +8,9 @@ import Link from "next/link";
 import SeasonsTable from "@/components/SeasonStandings";
 
 const presets = [
-  { id: "10matches", label: "+10 Matches" },
-  { id: "15matches", label: "+15 Matches" },
-  // { id: "champions", label: "Champions League Only" },
-  // { id: "vsSpain", label: "Vs Spanish Teams" },
+  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches },
+  { id: "15matches", label: "+15 Matches", selectedTeams: fiftyMatches },
+  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague },
 ];
 
 export default function PersonalizedPage() {
@@ -19,13 +19,39 @@ export default function PersonalizedPage() {
   const [activePreset, setActivePreset] = useState("10matches");
 
   useEffect(() => {
-    fetch("/api/personalized")
-      .then((res) => res.json())
-      .then((data) => {
-        setTable(data.tableWithPositions);
+    if (!activePreset) return;
+
+    const preset = presets.find((p) => p.id === activePreset);
+    if (!preset) return;
+
+    const fetchTable = async () => {
+      try {
+        const res = await fetch("/api/personalized", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            teams: preset.selectedTeams,
+          }),
+        });
+
+        if (!res.ok) {
+          const errorData = await res.json();
+          console.log("Error de API:", errorData);
+          return;
+        }
+
+        const data = await res.json();
+        setTable(data.customTable);
         setExternalOpponents(data.externalOpponents);
-      });
-  }, []);
+      } catch (err) {
+        console.error("Error al obtener la tabla personalizada:", err);
+      }
+    };
+
+    fetchTable();
+  }, [activePreset]);
 
   return (
     <main className="p-4">
@@ -57,9 +83,13 @@ export default function PersonalizedPage() {
       </div>
       {/* Table */}
       <div className="flex justify-around mb-4">
-        {table.length > 0 && <LeagueTable data={table} />}
-        {externalOpponents.length > 0 && (
-          <SeasonsTable data={externalOpponents} />
+        {table.length === 0 ? (
+          <p className="text-center text-gray-500">Cargando...</p>
+        ) : (
+          <>
+            <LeagueTable data={table} />
+            <SeasonsTable data={externalOpponents} />
+          </>
         )}
       </div>
     </main>

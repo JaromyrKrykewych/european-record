@@ -7,14 +7,6 @@ const CLUB_COUNTRY_HISTORY = {
     { from: "1950", to: "1992", country: "Yugoslavia" },
     { from: "1992", to: "2025", country: "Serbia" },
   ],
-  "Dynamo Kyiv": [
-    { from: "1950", to: "1991", country: "USSR" },
-    { from: "1992", to: "2025", country: "Ukraine" },
-  ],
-  "Shakhtar Donetsk": [
-    { from: "1950", to: "1991", country: "USSR" },
-    { from: "1992", to: "2025", country: "Ukraine" },
-  ],
   "Slovan Bratislava": [
     { from: "1950", to: "1992", country: "Czechoslovakia" },
     { from: "1993", to: "2025", country: "Slovakia" },
@@ -64,6 +56,14 @@ const CLUB_COUNTRY_HISTORY = {
     { from: "1993", to: "2025", country: "England" },
   ],
   "Dynamo Kyiv": [
+    { from: "1950", to: "1991", country: "Soviet Union" },
+    { from: "1992", to: "2025", country: "Ukraine" },
+  ],
+  "Shakhtar Donetsk": [
+    { from: "1950", to: "1991", country: "Soviet Union" },
+    { from: "1992", to: "2025", country: "Ukraine" },
+  ],
+  "Dnipro Dnipropetrovsk": [
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Ukraine" },
   ],
@@ -186,5 +186,9 @@ const CLUB_COUNTRY_HISTORY = {
   "SKA Rostov-na-Donu": [
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Russia" },
+  ],
+  "Dukla Banska Bystrica": [
+    { from: "1950", to: "1992", country: "Czechoslovakia" },
+    { from: "1993", to: "2025", country: "Slovakia" },
   ],
 };

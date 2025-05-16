@@ -31,6 +31,8 @@ export const CLUB_ALIASES = {
   "TJ Gottwaldov": "FC Zlin",
   "Dynamo Kyiv": "Dynamo Kyiv",
   "Dinamo Kiev": "Dynamo Kyiv",
+  "Dnipro Dnipropetrovsk": "Dnipro Dnipropetrovsk",
+  "Dnepr Dnepropetrovsk": "Dnipro Dnipropetrovsk",
   "Karpaty Lvov": "Karpaty Lviv",
   "Karpaty Lviv": "Karpaty Lviv",
   "Zorya Luhansk": "Zorya Luhansk",
