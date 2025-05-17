@@ -163,6 +163,14 @@ const CLUB_COUNTRY_HISTORY = {
     { from: "1950", to: "1992", country: "Czechoslovakia" },
     { from: "1993", to: "2025", country: "Czech Republic" },
   ],
+  "TJ Vítkovice": [
+    { from: "1950", to: "1992", country: "Czechoslovakia" },
+    { from: "1993", to: "2025", country: "Czech Republic" },
+  ],
+  "Sigma Olomouc": [
+    { from: "1950", to: "1992", country: "Czechoslovakia" },
+    { from: "1993", to: "2025", country: "Czech Republic" },
+  ],
   "Dinamo Tbilisi": [
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Georgia" },
@@ -187,8 +195,24 @@ const CLUB_COUNTRY_HISTORY = {
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Russia" },
   ],
+  "Zenit St. Petersburg": [
+    { from: "1950", to: "1991", country: "Soviet Union" },
+    { from: "1992", to: "2025", country: "Russia" },
+  ],
   "Dukla Banska Bystrica": [
     { from: "1950", to: "1992", country: "Czechoslovakia" },
     { from: "1993", to: "2025", country: "Slovakia" },
+  ],
+  "DAC Dunajska Streda": [
+    { from: "1950", to: "1992", country: "Czechoslovakia" },
+    { from: "1993", to: "2025", country: "Slovakia" },
+  ],
+  "Vardar Skopje": [
+    { from: "1950", to: "1992", country: "Yugoslavia" },
+    { from: "1992", to: "2025", country: "North Macedonia" },
+  ],
+  "Zalgiris Vilnius": [
+    { from: "1950", to: "1991", country: "Soviet Union" },
+    { from: "1992", to: "2025", country: "Lithuania" },
   ],
 };

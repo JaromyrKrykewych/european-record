@@ -39,6 +39,8 @@ export const CLUB_ALIASES = {
   "Zaria Voroshilovgrad": "Zorya Luhansk",
   "Chernomorets Odesa": "Chernomorets Odesa",
   "Chernomorets Odessa": "Chernomorets Odesa",
+  "Zenit St. Petersburg": "Zenit St. Petersburg",
+  "Zenit Leningrad": "Zenit St. Petersburg",
   "MSC Pécs": "MSC Pécs",
   "Pécsi Dózsa": "MSC Pécs",
   "ADO Den Haag": "ADO Den Haag",
