@@ -2,9 +2,9 @@
 
 import {
   elevenMatches,
-  fiftyMatches,
   mainLeague,
   tenMatches,
+  thirteenMatches,
   twelveMatches,
 } from "@/data/selectedTeams";
 import { useEffect, useState } from "react";
@@ -14,11 +14,11 @@ import Link from "next/link";
 import SeasonsTable from "@/components/SeasonStandings";
 
 const presets = [
-  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //138
-  { id: "11matches", label: "+11 Matches", selectedTeams: elevenMatches }, //117
-  { id: "12matches", label: "+12 Matches", selectedTeams: twelveMatches }, //87
-  { id: "15matches", label: "+15 Matches", selectedTeams: fiftyMatches },
-  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague },
+  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //165
+  { id: "11matches", label: "+11 Matches", selectedTeams: elevenMatches }, //143
+  { id: "12matches", label: "+12 Matches", selectedTeams: twelveMatches }, //100
+  { id: "13matches", label: "+13 Matches", selectedTeams: thirteenMatches }, //91
+  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague }, // 7
 ];
 
 export default function PersonalizedPage() {

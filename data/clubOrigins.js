@@ -91,6 +91,10 @@ const CLUB_COUNTRY_HISTORY = {
     { from: "1950", to: "1992", country: "Czechoslovakia" },
     { from: "1993", to: "2025", country: "Slovakia" },
   ],
+  "FC Nitra": [
+    { from: "1950", to: "1992", country: "Czechoslovakia" },
+    { from: "1993", to: "2025", country: "Slovakia" },
+  ],
   "Spartak Moscow": [
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Russia" },
@@ -214,5 +218,9 @@ const CLUB_COUNTRY_HISTORY = {
   "Zalgiris Vilnius": [
     { from: "1950", to: "1991", country: "Soviet Union" },
     { from: "1992", to: "2025", country: "Lithuania" },
+  ],
+  "FK Rad Belgrade": [
+    { from: "1950", to: "1992", country: "Yugoslavia" },
+    { from: "1992", to: "2025", country: "Serbia" },
   ],
 };

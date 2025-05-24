@@ -56,4 +56,6 @@ export const CLUB_ALIASES = {
   "FC Brno": "Zbrojovka Brno",
   "Politehnica Timisoara": "Politehnica Timisoara",
   "FC Timisoara": "Politehnica Timisoara",
+  "Dinamo Zagreb": "Dinamo Zagreb",
+  "HASK Gradjanski": "Dinamo Zagreb",
 };
