@@ -58,4 +58,8 @@ export const CLUB_ALIASES = {
   "FC Timisoara": "Politehnica Timisoara",
   "Dinamo Zagreb": "Dinamo Zagreb",
   "HASK Gradjanski": "Dinamo Zagreb",
+  "NK Celje": "NK Celje",
+  "Publikum Celje": "NK Celje",
+  "FC Salzburg": "FC Salzburg",
+  "Austria Salzburg": "FC Salzburg",
 };
