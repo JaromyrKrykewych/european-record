@@ -1,9 +1,7 @@
 "use client";
 
 import {
-  elevenMatches,
   fifteenMatches,
-  fourteenMatches,
   mainLeague,
   tenMatches,
   test,
@@ -17,12 +15,10 @@ import Link from "next/link";
 import SeasonsTable from "@/components/SeasonStandings";
 
 const presets = [
-  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //194
-  { id: "11matches", label: "+11 Matches", selectedTeams: elevenMatches }, //168
-  { id: "12matches", label: "+12 Matches", selectedTeams: twelveMatches }, //133
-  { id: "13matches", label: "+13 Matches", selectedTeams: thirteenMatches }, //97
-  { id: "14matches", label: "+14 Matches", selectedTeams: fourteenMatches }, //90
-  { id: "15matches", label: "+15 Matches", selectedTeams: fifteenMatches }, // 82
+  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //213
+  { id: "12matches", label: "+12 Matches", selectedTeams: twelveMatches }, //142
+  { id: "13matches", label: "+13 Matches", selectedTeams: thirteenMatches }, //99
+  { id: "15matches", label: "+15 Matches", selectedTeams: fifteenMatches }, // 94
   { id: "mainLeague", label: "Main League", selectedTeams: mainLeague }, // 7
   { id: "testmatches", label: "Test Matches", selectedTeams: test }, // 20
 ];
@@ -30,7 +26,9 @@ const presets = [
 export default function PersonalizedPage() {
   const [table, setTable] = useState([]);
   const [externalOpponents, setExternalOpponents] = useState([]);
-  const [activePreset, setActivePreset] = useState("15matches");
+  // const [activePreset, setActivePreset] = useState("15matches");
+  // const [activePreset, setActivePreset] = useState("testmatches");
+  const [activePreset, setActivePreset] = useState("mainLeague");
 
   useEffect(() => {
     if (!activePreset) return;
