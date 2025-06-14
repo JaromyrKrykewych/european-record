@@ -9,14 +9,13 @@ import {
 import { useEffect, useState } from "react";
 
 import LeagueTable from "@/components/Standings";
-import Link from "next/link";
 import SeasonsTable from "@/components/SeasonStandings";
 
 const presets = [
-  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //229
-  { id: "15matches", label: "+15 Matches", selectedTeams: fifteenMatches }, // 117
-  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague }, // 7
-  { id: "testmatches", label: "Test Matches", selectedTeams: test }, // 20
+  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //249
+  { id: "15matches", label: "+15 Matches", selectedTeams: fifteenMatches }, // 142
+  { id: "testmatches", label: "Test Matches", selectedTeams: test }, // 37
+  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague }, // 9
 ];
 
 export default function PersonalizedPage() {
@@ -62,16 +61,16 @@ export default function PersonalizedPage() {
   }, [activePreset]);
 
   return (
-    <main className="p-4">
+    <>
       {/* Header */}
-      <div className="flex justify-between items-center mb-4">
+      {/* <div className="flex justify-between items-center mb-4">
         <Link href="/" className="text-blue-500 hover:underline">
           Home
         </Link>
         <Link href={"/progression"} className="text-blue-500 hover:underline">
           Progression Table
         </Link>
-      </div>
+      </div> */}
       {/* Cards */}
       <div className="w-[85%] mt-[50px] mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
         {presets.map((preset) => (
@@ -100,6 +99,6 @@ export default function PersonalizedPage() {
           </>
         )}
       </div>
-    </main>
+    </>
   );
 }

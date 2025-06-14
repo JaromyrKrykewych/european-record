@@ -3,7 +3,6 @@
 import { useEffect, useState } from "react";
 
 import LeagueTable from "@/components/Standings";
-import Link from "next/link";
 import SeasonsTable from "@/components/SeasonStandings";
 
 export default function Home() {
@@ -20,22 +19,25 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="p-4">
-      <div className="flex justify-between items-center mb-4">
+    <>
+      {/* <div className="flex justify-around items-center mt-8 mb-4 text-lg">
         <Link href="/update" className="text-blue-500 hover:underline">
           Update Data
         </Link>
         <Link href={"/personalized"} className="text-blue-500 hover:underline">
           Personalized Table
         </Link>
+        <Link href={"/crosstable"} className="text-blue-500 hover:underline">
+          Global Head-to-Head
+        </Link>
         <Link href={"/progression"} className="text-blue-500 hover:underline">
           Progression Table
         </Link>
-      </div>
+      </div> */}
       <div className="flex justify-around mb-4">
         {table.length > 0 && <LeagueTable data={table} />}
         {seasons.length > 0 && <SeasonsTable data={seasons} />}
       </div>
-    </main>
+    </>
   );
 }

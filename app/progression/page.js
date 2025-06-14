@@ -31,11 +31,8 @@ export default function ProgressionTable() {
   }, []);
 
   return (
-    <div className="p-4">
-      <Link href={"/"} className="text-blue-500 hover:underline">
-        Go to Standings
-      </Link>
-      <div className="w-[720px] mx-auto mt-10 bg-gray-900 rounded-lg shadow-lg p-4">
+    <>
+      <div className="w-3xl mx-auto mt-10 bg-gray-900 rounded-lg shadow-lg p-4">
         <ProgressionStandings
           data={data}
           allYears={allYears}
@@ -43,6 +40,6 @@ export default function ProgressionTable() {
           setYearRange={setYearRange}
         />
       </div>
-    </div>
+    </>
   );
 }
