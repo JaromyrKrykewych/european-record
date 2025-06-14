@@ -12,7 +12,7 @@ export default function LeagueTable({ data }) {
   const tableData = data.slice(0, visibleCount);
 
   return (
-    <div className="max-w-4xl mx-auto my-8 p-4 h-fit bg-white dark:bg-zinc-900 rounded-xl shadow-lg dark:shadow-zinc-800 transition-colors">
+    <div className="max-w-2xl mx-auto my-8 p-4 h-fit bg-white dark:bg-zinc-900 rounded-xl shadow-lg dark:shadow-zinc-800 transition-colors">
       <h2 className="text-2xl font-bold mb-4 text-center text-zinc-800 dark:text-white">
         Tabla de Posiciones
       </h2>

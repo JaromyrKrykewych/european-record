@@ -48,6 +48,7 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
             <th>Club</th>
             {teams
               .filter((team) => !IGNORED_TEAMS.includes(team.name))
+              .slice(0, 20)
               .map((team) => (
                 <th key={team.name} title={team.name}>
                   {team.abr}
@@ -66,6 +67,7 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
                 <th className="pl-2.5 text-left">{rowTeam.name}</th>
                 {teams
                   .filter((team) => !IGNORED_TEAMS.includes(team.name))
+                  .slice(0, 20)
                   .map((colTeam) => {
                     const result = getResult(rowTeam.name, colTeam.name);
                     const cellColor = getCellColor(
@@ -78,7 +80,7 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
                       <td
                         key={colTeam.name}
                         className={clsx(
-                          "border px-2 py-1 text-center",
+                          "border px-2 py-1 text-center cursor-help relative group",
                           !result &&
                             "bg-gray-100 text-gray-400 dark:bg-gray-800 dark:text-gray-400",
                           result === "—" &&
@@ -87,6 +89,9 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
                         )}
                       >
                         {result || "N/P"}
+                        <div className="pointer-events-none absolute left-1/2 top-1/2 z-10 mt-6 -translate-x-1/2 whitespace-nowrap rounded bg-black px-2 py-1 text-xs text-white opacity-0 transition-opacity group-hover:opacity-100">
+                          {rowTeam.name} vs {colTeam.name}
+                        </div>
                       </td>
                     );
                   })}
