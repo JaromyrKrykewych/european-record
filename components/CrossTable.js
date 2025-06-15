@@ -48,7 +48,7 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
             <th>Club</th>
             {teams
               .filter((team) => !IGNORED_TEAMS.includes(team.name))
-              .slice(0, 20)
+              .slice(0, 25)
               .map((team) => (
                 <th key={team.name} title={team.name}>
                   {team.abr}
@@ -67,7 +67,7 @@ const GlobalHeadToHeadTable = ({ data, teams }) => {
                 <th className="pl-2.5 text-left">{rowTeam.name}</th>
                 {teams
                   .filter((team) => !IGNORED_TEAMS.includes(team.name))
-                  .slice(0, 20)
+                  .slice(0, 25)
                   .map((colTeam) => {
                     const result = getResult(rowTeam.name, colTeam.name);
                     const cellColor = getCellColor(
