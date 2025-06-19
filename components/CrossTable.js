@@ -3,7 +3,7 @@
 import clsx from "clsx";
 import { normalizeClubName } from "@/lib/normalizeClubName";
 
-const IGNORED_TEAMS = ["Dinamo Kiev"];
+const IGNORED_TEAMS = ["Dinamo Kiev", "Steaua Bucuresti", "CDNA Sofia"];
 
 const GlobalHeadToHeadTable = ({ data, teams }) => {
   // Función que busca el headtohead entre dos equipos

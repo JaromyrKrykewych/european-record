@@ -8,6 +8,6 @@ export async function GET() {
   const teamsData = getTeamsFromJson();
   const table = generateLeagueTable(teamsData);
   const seasons = generateSeasonTable(teamsData);
-  updateProgression(table, "2006-07");
+  updateProgression(table, "2012-13");
   return NextResponse.json({ table, seasons }, { status: 200 });
 }
