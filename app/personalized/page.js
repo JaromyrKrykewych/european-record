@@ -1,33 +1,35 @@
-"use client";
+'use client';
 
 import {
+  ThirtyMatches,
   elite,
   fifteenMatches,
   mainLeague,
   tenMatches,
   twentyFiveMatches,
   twentyMatches,
-} from "@/data/selectedTeams";
-import { useEffect, useState } from "react";
+} from '@/data/selectedTeams';
+import { useEffect, useState } from 'react';
 
-import LeagueTable from "@/components/Standings";
-import SeasonsTable from "@/components/SeasonStandings";
+import LeagueTable from '@/components/Standings';
+import SeasonsTable from '@/components/SeasonStandings';
 
 const presets = [
-  { id: "10matches", label: "+10 Matches", selectedTeams: tenMatches }, //344
-  { id: "15matches", label: "+15 Matches", selectedTeams: fifteenMatches }, // 220
-  { id: "20matches", label: "+20 Matches", selectedTeams: twentyMatches }, // 142
-  { id: "25matches", label: "+25 Matches", selectedTeams: twentyFiveMatches }, //55
-  { id: "elitematches", label: "Elite Matches", selectedTeams: elite }, // 43
-  { id: "mainLeague", label: "Main League", selectedTeams: mainLeague }, // 12
+  { id: '10matches', label: '+10 Matches', selectedTeams: tenMatches }, //413
+  { id: '15matches', label: '+15 Matches', selectedTeams: fifteenMatches }, // 282
+  { id: '20matches', label: '+20 Matches', selectedTeams: twentyMatches }, // 198
+  { id: '25matches', label: '+25 Matches', selectedTeams: twentyFiveMatches }, //115
+  { id: '30matches', label: '+30 Matches', selectedTeams: ThirtyMatches }, // 77
+  { id: 'elitematches', label: 'Elite Matches', selectedTeams: elite }, // 56
+  { id: 'mainLeague', label: 'Main League', selectedTeams: mainLeague }, // 18
 ];
 
 export default function PersonalizedPage() {
   const [table, setTable] = useState([]);
   const [externalOpponents, setExternalOpponents] = useState([]);
-  // const [activePreset, setActivePreset] = useState("25matches");
-  const [activePreset, setActivePreset] = useState("elitematches");
-  // const [activePreset, setActivePreset] = useState("mainLeague");
+  // const [activePreset, setActivePreset] = useState('30matches');
+  const [activePreset, setActivePreset] = useState('elitematches');
+  // const [activePreset, setActivePreset] = useState('mainLeague');
 
   useEffect(() => {
     if (!activePreset) return;
@@ -37,10 +39,10 @@ export default function PersonalizedPage() {
 
     const fetchTable = async () => {
       try {
-        const res = await fetch("/api/personalized", {
-          method: "POST",
+        const res = await fetch('/api/personalized', {
+          method: 'POST',
           headers: {
-            "Content-Type": "application/json",
+            'Content-Type': 'application/json',
           },
           body: JSON.stringify({
             teams: preset.selectedTeams,
@@ -49,7 +51,7 @@ export default function PersonalizedPage() {
 
         if (!res.ok) {
           const errorData = await res.json();
-          console.log("Error de API:", errorData);
+          console.log('Error de API:', errorData);
           return;
         }
 
@@ -57,7 +59,7 @@ export default function PersonalizedPage() {
         setTable(data.customTable);
         setExternalOpponents(data.externalOpponents);
       } catch (err) {
-        console.error("Error al obtener la tabla personalizada:", err);
+        console.error('Error al obtener la tabla personalizada:', err);
       }
     };
 
@@ -76,7 +78,7 @@ export default function PersonalizedPage() {
         </Link>
       </div> */}
       {/* Cards */}
-      <div className="w-[85%] mt-[50px] mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
+      <div className='w-[85%] mt-[50px] mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 mb-8'>
         {presets.map((preset) => (
           <button
             key={preset.id}
@@ -84,8 +86,8 @@ export default function PersonalizedPage() {
             className={`cursor-pointer rounded-xl border px-2 py-3 text-center font-semibold transition 
               ${
                 activePreset === preset.id
-                  ? "bg-blue-600 text-white shadow-lg"
-                  : "bg-white hover:bg-gray-100 text-gray-800"
+                  ? 'bg-blue-600 text-white shadow-lg'
+                  : 'bg-white hover:bg-gray-100 text-gray-800'
               }`}
           >
             {preset.label}
@@ -93,9 +95,9 @@ export default function PersonalizedPage() {
         ))}
       </div>
       {/* Table */}
-      <div className="flex justify-around mb-4">
+      <div className='flex justify-around mb-4'>
         {table.length === 0 ? (
-          <p className="text-center text-gray-500">Cargando...</p>
+          <p className='text-center text-gray-500'>Cargando...</p>
         ) : (
           <>
             <LeagueTable data={table} />

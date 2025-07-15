@@ -1,12 +1,12 @@
-import buildHeadToHead from "@/lib/buildHeadToHead";
-import fs from "fs";
-import { getSheetData } from "@/lib/googleSheet";
-import { normalizeClubName } from "@/lib/normalizeClubName";
-import path from "path";
+import buildHeadToHead from '@/lib/buildHeadToHead';
+import fs from 'fs';
+import { getSheetData } from '@/lib/googleSheet';
+import { normalizeClubName } from '@/lib/normalizeClubName';
+import path from 'path';
 
 export async function GET() {
   const sheetId = process.env.GOOGLE_SHEET_ID;
-  const range = "2012-13!A1:J348";
+  const range = '2020-21!A1:J371';
   const rawMatches = await getSheetData(sheetId, range);
 
   const headers = rawMatches[0];
@@ -22,8 +22,8 @@ export async function GET() {
 
   const newData = buildHeadToHead(matches);
 
-  const filePath = path.join(process.cwd(), "data", "teamsData.json");
-  const existingData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  const filePath = path.join(process.cwd(), 'data', 'teamsData.json');
+  const existingData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
   // Merge logic
   for (const rawTeam in newData) {
@@ -71,7 +71,7 @@ export async function GET() {
           let losses = 0;
 
           for (const match of existingOpponent.matches) {
-            const [g1, g2] = match.result.split("-").map(Number);
+            const [g1, g2] = match.result.split('-').map(Number);
 
             if (normalizeClubName(match.home) === team && g1 > g2) wins++;
             else if (normalizeClubName(match.away) === team && g2 > g1) wins++;
@@ -98,6 +98,6 @@ export async function GET() {
 
   return Response.json({
     success: true,
-    message: "Archivo generado",
+    message: 'Archivo generado',
   });
 }

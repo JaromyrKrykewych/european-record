@@ -6,6 +6,9 @@ export const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-lg font-bold">European Club Stats</div>
         <div className="space-x-6">
+          <Link href="/teams" className="text-blue-500 hover:underline">
+            Teams
+          </Link>
           <Link href="/" className="text-blue-500 hover:underline">
             All Teams Standings
           </Link>

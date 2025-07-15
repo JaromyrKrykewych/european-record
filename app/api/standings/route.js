@@ -1,13 +1,13 @@
-import { NextResponse } from "next/server";
-import generateLeagueTable from "@/lib/generateLeagueTable";
-import generateSeasonTable from "@/lib/generateSeasons";
-import getTeamsFromJson from "@/lib/getTeamsFromJson";
-import updateProgression from "@/lib/generateProgretion";
+import { NextResponse } from 'next/server';
+import generateLeagueTable from '@/lib/generateLeagueTable';
+import generateSeasonTable from '@/lib/generateSeasons';
+import getTeamsFromJson from '@/lib/getTeamsFromJson';
+import updateProgression from '@/lib/generateProgretion';
 
 export async function GET() {
   const teamsData = getTeamsFromJson();
   const table = generateLeagueTable(teamsData);
   const seasons = generateSeasonTable(teamsData);
-  updateProgression(table, "2012-13");
+  updateProgression(table, '2020-21');
   return NextResponse.json({ table, seasons }, { status: 200 });
 }
